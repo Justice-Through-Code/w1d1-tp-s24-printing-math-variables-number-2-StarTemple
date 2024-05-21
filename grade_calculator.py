@@ -12,3 +12,4 @@ def calculate_average_grade():
     average_grade = total_score / 3
 
     return student_name, average_grade
+
